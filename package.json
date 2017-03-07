@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "eslint-config-mirage": "3",
-    "eslint-plugin-flowtype": "^2.20.0",
+    "eslint-plugin-flowtype": "^2.30.3",
     "eslint-plugin-flowtype-errors": "^3.0.0"
   }
 }
